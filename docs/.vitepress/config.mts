@@ -1,6 +1,4 @@
 import { defineConfig } from "vitepress";
-// import { sidebar } from "./config/sideBar/index.ts";
-// import { nav } from "./config/nav/index.ts";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
