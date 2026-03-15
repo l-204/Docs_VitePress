@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Docs_VitePress/', // Github仓库名，防止部署到Github Pages和其它项目冲突
   title: "前端自习室",
   description: "A VitePress Site",
   themeConfig: {
