@@ -7,7 +7,7 @@ hero:
   text: "文档与博客一体化网站"
   tagline: 在这里你可以找到技术文档和我的博客文章
   image:
-    src: /images/logo2.png
+    src: /images/cover.png
     alt: VitePress
   actions:
     - theme: brand

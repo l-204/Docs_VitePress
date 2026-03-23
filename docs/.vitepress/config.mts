@@ -7,7 +7,7 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/images/logo2.png", // 导航栏 logo
+    logo: "/images/logo.png", // 导航栏 logo
     nav: [
       { text: "🏠 首页", link: "/" },
       { text: "🚀 项目", link: "/pages/project/" }, // github项目
